@@ -1,4 +1,4 @@
-[Q1.py.py](https://github.com/user-attachments/files/21821843/Q1.py.py)# python-journey
+# python-journey
 A repository to track my Python learning journey 🚀
 # Python Basics – Lecture 1
 
