@@ -29,6 +29,11 @@ I solved all 4 questions in my first try ✅
 
 
 
+
+
+
+
+
 # Lecture 2 - Python Basics  
 In this lecture, I learned about:  
 - String concatenation  
@@ -56,3 +61,28 @@ In this lecture, I learned about:
  
  
 ✨ Stay tuned – I will keep adding more lectures and practice problems here as I learn!
+
+
+# LECTURE 3 – LISTS AND TUPLES IN PYTHON
+
+In this lecture, I learned about:
+
+- Creating and accessing list elements
+
+- Common list methods (append, insert, remove, pop, sort, reverse, etc.)
+
+- Introduction to tuples and their immutability
+
+- Iterating through lists and tuples
+
+- I also solved the following practice problems:
+ 
+1.Program to ask the user to enter names of their favourite movies and store them in a list.
+[Q1.py](https://github.com/user-attachments/files/21929841/Q1.py)
+
+2.Program to check if a list contains a palindrome of elements.
+[Q2.py](https://github.com/user-attachments/files/21929843/Q2.py)
+
+3.Program to count the number of students with an "A" grade from a given dataset and then sort the grades from A → D.  
+
+[Q3.py](https://github.com/user-attachments/files/21929847/Q3.py)
