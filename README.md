@@ -86,3 +86,34 @@ In this lecture, I learned about:
 3.Program to count the number of students with an "A" grade from a given dataset and then sort the grades from A → D.  
 
 [Q3.py](https://github.com/user-attachments/files/21929847/Q3.py)
+
+
+# LECTURE 4 – SETS AND DICTIONARIES IN PYTHON
+
+Topics Covered:
+
+- Introduction to Sets
+
+- Unordered collection of unique elements
+
+- Set operations (union, intersection, difference, symmetric difference)
+
+- Adding and removing elements in a set
+
+- Introduction to Dictionaries
+
+- Key-Value pairs
+
+- Adding, updating, and deleting dictionary entries
+
+- Iterating over keys and values
+
+✅ Practice Questions Solved:
+
+Q1. Create a dictionary to store word meanings.
+[Q1.py](https://github.com/user-attachments/files/21948663/Q1.py)
+ 
+Q2. WAP to enter marks of 3 subjects from the user and store them in a dictionary. Start with an empty dictionary and add one by one with subject name as key and marks as value.
+
+[Q2.py](https://github.com/user-attachments/files/21948664/Q2.py)
+ 
