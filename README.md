@@ -116,4 +116,24 @@ Q1. Create a dictionary to store word meanings.
 Q2. WAP to enter marks of 3 subjects from the user and store them in a dictionary. Start with an empty dictionary and add one by one with subject name as key and marks as value.
 
 [Q2.py](https://github.com/user-attachments/files/21948664/Q2.py)
+
+## 📘 Lecture 5: Loops in Python
+Today I completed Lecture 5, where I learned about `while` loops and `for` loops.  
+I practiced 9 problems to strengthen my understanding of iteration and control flow in Python:
+
+1. Countdown from 100 to 1 → [Q2.py](Q2.py)  
+2. Multiples of n natural numbers (1–10) → [Q3.py](Q3.py)  
+3. Iterating over a list → [Q4.py](Q4.py)  
+4. Searching a number in a tuple (while loop) → [Q5.py](Q5.py)  
+5. Searching a number in a tuple (for loop with break) → [Q6.py](Q6.py)  
+6. Multiplication table generator → [Q7.py](Q7.py)  
+7. Sum of first n natural numbers → [Q8.py](Q8.py)  
+8. Factorial of a number → [Q9.py](Q9.py)  
+
+This session gave me clarity on:
+- Difference between `for` and `while` loops
+- Iterating through sequences
+- Applying loops for problem solving
+
+
  
