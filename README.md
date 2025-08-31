@@ -153,5 +153,31 @@ This session gave me clarity on:
 - Iterating through sequences
 - Applying loops for problem solving
 
+# lecture 6 - functions and recursions
+
+Today, I've successfully completed Lecture 6 on Python Functions and Recursion! 🐍
+
+I've applied my new skills by solving seven practice problems. Here's a brief breakdown of what each program does:
+
+Q1.py
+This program, Q1.py, defines a function named list that takes four arguments and appends them to a new list, which is then returned and printed to the console.
+
+Q2.py
+The Q2.py script defines a function single that iterates through a list and prints each item on a single line, separated by a space.
+
+Q3.py
+In Q3.py, the facto function calculates the factorial of a given number using a while loop. The result is then printed.
+
+Q4.py
+The Q4.py program defines a convert function that takes a number and converts it from a hypothetical currency to Indian Rupees (INR) using a fixed exchange rate.
+
+Q5.py
+Q5.py contains a function called number that determines whether a given integer is even or odd using the modulo operator.
+
+Q6.py
+This script, Q6.py, demonstrates recursion. The sum function calculates the sum of all integers from 1 up to a given number by calling itself repeatedly.
+
+Q7.py
+The Q7.py program also showcases recursion. The elements function iterates through a list and prints each element by calling itself with an incremented index until it reaches the end of the list.
 
  
