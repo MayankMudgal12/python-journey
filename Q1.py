@@ -1,13 +1,3 @@
-def list(a,b,c,d):
-    input = []
-    input.append(a)
-    input.append(b)
-    input.append(c)
-    input.append(d)
-    print(input)
-    return input
-
-
-list("mayank","is",18,"super")
-
- 
+with open("practice.txt","w") as f:
+    f.write("hi everyone\nwe are learning file I/O \n using java \n i like programming in java")
+    

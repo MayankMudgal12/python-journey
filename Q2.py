@@ -1,12 +1,8 @@
-words = ["hello", "guys", "my", "name", "is", "mayank"]
-list2 =["my","age","is",18]
+with open("practice.txt","r") as f:
+          data = f.read()
+new_data = data.replace("java","python")
+print(new_data)
 
-def single(list3):
-    for items in list3:
-        print(items, end=" ")
-        
-    
-
-single(words)
-single(list2)
-
+with open("practice.txt","w") as f:
+        f.write(new_data)
+        print(new_data)

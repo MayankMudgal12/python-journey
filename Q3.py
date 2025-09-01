@@ -1,12 +1,6 @@
-def facto(n):
-    a = n
-    prod = 1
+with open("practice.txt","r") as f:
+    data = f.read()
+    
+new_data = data.find("learning")
 
-    while (n > 0):
-        prod*= n
-        n-=1
-    print(prod)
-
-
-facto(30)
-        
+print( new_data)

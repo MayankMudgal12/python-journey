@@ -1,6 +1,18 @@
-def convert(n):
-    usd = 88.17
-    inr = 88.17*n
-    print(inr)
+def check_for_line():
+    word = "learning"
+    line = 1
+    data = True
+    with open("practice.txt","r") as f:
+        while data:
+            data = f.readline()
+            if(word in data ):
+                print(line)
+                return
+            line +=1
 
-convert(5)
+    return -1
+
+check_for_line() 
+
+      
+     
