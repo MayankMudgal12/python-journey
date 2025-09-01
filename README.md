@@ -181,3 +181,37 @@ Q7.py
 The Q7.py program also showcases recursion. The elements function iterates through a list and prints each element by calling itself with an incremented index until it reaches the end of the list.
 
  
+# lecture 7 - File I/O
+
+- Key Concepts learned and Practiced:
+
+Reading and Writing Files: I learned how to open files in different modes (e.g., read, write) to perform operations like reading the entire content or writing new data. I also practiced using the 
+
+
+with statement to ensure files are properly closed, even if errors occur.
+
+
+String Manipulation: The exercises involved using string methods like replace() to modify file content, and find() to locate specific substrings.
+
+Iterating Through Files: I implemented a solution that reads a file line by line using a while loop and readline() to find a specific word and its corresponding line number.
+
+
+Data Processing: One of the problems required me to read a file containing a comma-separated list of numbers, split the string into individual values, and then process them to count how many were even. This task helped me practice converting string data to integers and performing conditional checks.
+
+Project Structure:
+Q1.py: Demonstrates how to write a string to a file named practice.txt.
+
+Q2.py: Reads the content of practice.txt, replaces the word "java" with "python," and then writes the updated content back to the file.
+
+Q3.py: Finds the starting index of the word "learning" in practice.txt.
+
+Q4.py: Searches practice.txt for the word "learning" and prints the line number where it's first found.
+
+Q5.py: Reads numbers from numbers.txt, counts the even numbers, and prints the total count.
+
+How to Run:
+Clone this repository.
+
+Ensure you have the practice.txt and numbers.txt files (included in the repository) in the same directory as the Python scripts.
+
+Run each Python script from your terminal (e.g., python Q2.py).
